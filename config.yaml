@@ -1,5 +1,5 @@
 aws_region: 'us-west-2'
-test_repo_table: 'cloudlock_e2e'
+test_repo_table: 'testing'
 ttq_rest_table: 24
 test_s3_bucket: 'publicrepo'
 dev_s3_bucket: 'publicrepo'
