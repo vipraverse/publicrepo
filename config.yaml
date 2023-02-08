@@ -1,0 +1,7 @@
+aws_region: 'us-west-2'
+test_repo_table: 'cloudlock_e2e'
+ttq_rest_table: 24
+test_s3_bucket: 'publicrepo'
+dev_s3_bucket: 'publicrepo'
+AWS_ACCESS_KEY_ID: 'AK123ASDSADWDSAS'
+AWS_SECRET_ACCESS_KEY: 'aSwSDeWSAswDAqq12DDSSSDEF'
