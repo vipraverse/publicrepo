@@ -1,0 +1,18 @@
+shrink:
+  accounts:
+    first_org:
+      abcd:
+        username: 'abcd@asdfde1.com'
+        password: '#Apr1g0Lab!!'
+
+      user_1:
+        username: 'bob1@asdfde1.com'
+        password: 'abcdASQwdSweDad#'
+
+      external_user1:
+        username: 'user@test.com'
+        password: 'abcdASQwdSweDad#'
+
+  app:
+    web_client_login_page: 'https://web.ampsquare.com/signin'
+
