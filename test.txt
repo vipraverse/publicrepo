@@ -12,7 +12,8 @@ shrink:
       external_user1:
         username: 'user@test.com'
         password: 'abcdASQwdSweDad#'
-
+        AWS_ACCESS_KEY_ID: 'AK123'
+        AWS_SECRET_ACCESS_KEY: 'abc123'
   app:
     web_client_login_page: 'https://web.ampsquare.com/signin'
 
